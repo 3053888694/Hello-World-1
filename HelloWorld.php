@@ -6,4 +6,7 @@
   // if you want the variable data types as well use var_dump
   $stringVar = 'hello world';
   var_dump($stringVar);
+
+  // 这样也可以呀
+  print "Hello World";
 ?>
